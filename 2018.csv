@@ -1,0 +1,385 @@
+,Mes,Región,Temperatura
+0,Ene,Aguascalientes,13.0
+1,Feb,Aguascalientes,16.7
+2,Mar,Aguascalientes,18.8
+3,Abr,Aguascalientes,19.9
+4,May,Aguascalientes,21.9
+5,Jun,Aguascalientes,21.3
+6,Jul,Aguascalientes,20.5
+7,Ago,Aguascalientes,20.4
+8,Sep,Aguascalientes,19.9
+9,Oct,Aguascalientes,18.5
+10,Nov,Aguascalientes,14.7
+11,Dic,Aguascalientes,12.7
+12,Ene,Baja California,16.3
+13,Feb,Baja California,15.5
+14,Mar,Baja California,16.6
+15,Abr,Baja California,20.4
+16,May,Baja California,20.5
+17,Jun,Baja California,24.3
+18,Jul,Baja California,28.6
+19,Ago,Baja California,29.6
+20,Sep,Baja California,27.2
+21,Oct,Baja California,21.6
+22,Nov,Baja California,17.1
+23,Dic,Baja California,13.8
+24,Ene,Baja California Sur,19.7
+25,Feb,Baja California Sur,19.9
+26,Mar,Baja California Sur,20.7
+27,Abr,Baja California Sur,22.9
+28,May,Baja California Sur,24.8
+29,Jun,Baja California Sur,26.9
+30,Jul,Baja California Sur,29.9
+31,Ago,Baja California Sur,29.9
+32,Sep,Baja California Sur,29.3
+33,Oct,Baja California Sur,25.7
+34,Nov,Baja California Sur,22.1
+35,Dic,Baja California Sur,19.2
+36,Ene,Campeche,22.3
+37,Feb,Campeche,26.1
+38,Mar,Campeche,27.5
+39,Abr,Campeche,28.5
+40,May,Campeche,28.9
+41,Jun,Campeche,28.8
+42,Jul,Campeche,29.0
+43,Ago,Campeche,28.4
+44,Sep,Campeche,28.4
+45,Oct,Campeche,27.4
+46,Nov,Campeche,26.0
+47,Dic,Campeche,24.4
+48,Ene,Coahuila,11.7
+49,Feb,Coahuila,18.0
+50,Mar,Coahuila,20.5
+51,Abr,Coahuila,22.2
+52,May,Coahuila,27.4
+53,Jun,Coahuila,29.4
+54,Jul,Coahuila,28.7
+55,Ago,Coahuila,28.7
+56,Sep,Coahuila,24.7
+57,Oct,Coahuila,21.5
+58,Nov,Coahuila,15.5
+59,Dic,Coahuila,13.6
+60,Ene,Colima,25.2
+61,Feb,Colima,26.2
+62,Mar,Colima,25.8
+63,Abr,Colima,25.8
+64,May,Colima,28.7
+65,Jun,Colima,28.4
+66,Jul,Colima,29.5
+67,Ago,Colima,28.4
+68,Sep,Colima,28.4
+69,Oct,Colima,27.8
+70,Nov,Colima,26.5
+71,Dic,Colima,25.6
+72,Ene,Chiapas,21.8
+73,Feb,Chiapas,24.7
+74,Mar,Chiapas,26.1
+75,Abr,Chiapas,26.5
+76,May,Chiapas,26.9
+77,Jun,Chiapas,25.8
+78,Jul,Chiapas,26.0
+79,Ago,Chiapas,25.7
+80,Sep,Chiapas,25.8
+81,Oct,Chiapas,25.3
+82,Nov,Chiapas,24.7
+83,Dic,Chiapas,22.4
+84,Ene,Chihuahua,11.0
+85,Feb,Chihuahua,14.8
+86,Mar,Chihuahua,17.0
+87,Abr,Chihuahua,20.4
+88,May,Chihuahua,24.7
+89,Jun,Chihuahua,26.7
+90,Jul,Chihuahua,25.6
+91,Ago,Chihuahua,24.7
+92,Sep,Chihuahua,22.6
+93,Oct,Chihuahua,18.7
+94,Nov,Chihuahua,13.3
+95,Dic,Chihuahua,10.8
+96,Ene,Ciudad de México,13.4
+97,Feb,Ciudad de México,17.0
+98,Mar,Ciudad de México,19.2
+99,Abr,Ciudad de México,19.3
+100,May,Ciudad de México,20.3
+101,Jun,Ciudad de México,19.6
+102,Jul,Ciudad de México,19.0
+103,Ago,Ciudad de México,18.2
+104,Sep,Ciudad de México,18.7
+105,Oct,Ciudad de México,18.0
+106,Nov,Ciudad de México,16.0
+107,Dic,Ciudad de México,14.9
+108,Ene,Durango,12.1
+109,Feb,Durango,15.9
+110,Mar,Durango,18.8
+111,Abr,Durango,20.4
+112,May,Durango,23.4
+113,Jun,Durango,24.5
+114,Jul,Durango,23.6
+115,Ago,Durango,23.3
+116,Sep,Durango,21.0
+117,Oct,Durango,18.7
+118,Nov,Durango,14.0
+119,Dic,Durango,11.8
+120,Ene,Guanajuato,13.9
+121,Feb,Guanajuato,17.4
+122,Mar,Guanajuato,20.3
+123,Abr,Guanajuato,21.3
+124,May,Guanajuato,22.8
+125,Jun,Guanajuato,21.4
+126,Jul,Guanajuato,20.7
+127,Ago,Guanajuato,20.4
+128,Sep,Guanajuato,20.2
+129,Oct,Guanajuato,19.7
+130,Nov,Guanajuato,16.4
+131,Dic,Guanajuato,14.5
+132,Ene,Guerrero,22.9
+133,Feb,Guerrero,24.4
+134,Mar,Guerrero,25.7
+135,Abr,Guerrero,26.5
+136,May,Guerrero,27.1
+137,Jun,Guerrero,26.0
+138,Jul,Guerrero,26.5
+139,Ago,Guerrero,25.2
+140,Sep,Guerrero,25.4
+141,Oct,Guerrero,25.0
+142,Nov,Guerrero,24.2
+143,Dic,Guerrero,23.4
+144,Ene,Hidalgo,13.4
+145,Feb,Hidalgo,16.7
+146,Mar,Hidalgo,18.5
+147,Abr,Hidalgo,19.5
+148,May,Hidalgo,20.4
+149,Jun,Hidalgo,20.7
+150,Jul,Hidalgo,21.0
+151,Ago,Hidalgo,20.7
+152,Sep,Hidalgo,20.9
+153,Oct,Hidalgo,19.8
+154,Nov,Hidalgo,17.1
+155,Dic,Hidalgo,15.3
+156,Ene,Jalisco,16.8
+157,Feb,Jalisco,19.5
+158,Mar,Jalisco,21.1
+159,Abr,Jalisco,22.4
+160,May,Jalisco,24.8
+161,Jun,Jalisco,23.8
+162,Jul,Jalisco,23.3
+163,Ago,Jalisco,22.8
+164,Sep,Jalisco,22.6
+165,Oct,Jalisco,21.6
+166,Nov,Jalisco,18.6
+167,Dic,Jalisco,16.6
+168,Ene,Estado de México,10.5
+169,Feb,Estado de México,13.8
+170,Mar,Estado de México,15.5
+171,Abr,Estado de México,16.0
+172,May,Estado de México,16.9
+173,Jun,Estado de México,16.7
+174,Jul,Estado de México,16.2
+175,Ago,Estado de México,15.8
+176,Sep,Estado de México,16.2
+177,Oct,Estado de México,15.5
+178,Nov,Estado de México,13.5
+179,Dic,Estado de México,12.9
+180,Ene,Michoacán,16.5
+181,Feb,Michoacán,19.2
+182,Mar,Michoacán,21.8
+183,Abr,Michoacán,22.9
+184,May,Michoacán,24.1
+185,Jun,Michoacán,22.7
+186,Jul,Michoacán,22.2
+187,Ago,Michoacán,21.9
+188,Sep,Michoacán,21.9
+189,Oct,Michoacán,21.3
+190,Nov,Michoacán,18.6
+191,Dic,Michoacán,17.0
+192,Ene,Morelos,18.4
+193,Feb,Morelos,22.1
+194,Mar,Morelos,24.6
+195,Abr,Morelos,25.0
+196,May,Morelos,24.0
+197,Jun,Morelos,23.2
+198,Jul,Morelos,23.1
+199,Ago,Morelos,21.9
+200,Sep,Morelos,21.8
+201,Oct,Morelos,21.8
+202,Nov,Morelos,20.6
+203,Dic,Morelos,19.1
+204,Ene,Nayarit,21.7
+205,Feb,Nayarit,24.7
+206,Mar,Nayarit,24.6
+207,Abr,Nayarit,25.4
+208,May,Nayarit,28.6
+209,Jun,Nayarit,29.3
+210,Jul,Nayarit,29.0
+211,Ago,Nayarit,28.4
+212,Sep,Nayarit,28.2
+213,Oct,Nayarit,27.5
+214,Nov,Nayarit,24.9
+215,Dic,Nayarit,22.0
+216,Ene,Nuevo León,12.3
+217,Feb,Nuevo León,18.6
+218,Mar,Nuevo León,21.5
+219,Abr,Nuevo León,21.9
+220,May,Nuevo León,26.1
+221,Jun,Nuevo León,27.8
+222,Jul,Nuevo León,28.1
+223,Ago,Nuevo León,28.6
+224,Sep,Nuevo León,25.9
+225,Oct,Nuevo León,22.1
+226,Nov,Nuevo León,16.3
+227,Dic,Nuevo León,14.8
+228,Ene,Oaxaca,20.2
+229,Feb,Oaxaca,23.1
+230,Mar,Oaxaca,24.9
+231,Abr,Oaxaca,24.9
+232,May,Oaxaca,26.6
+233,Jun,Oaxaca,24.1
+234,Jul,Oaxaca,24.5
+235,Ago,Oaxaca,24.7
+236,Sep,Oaxaca,24.8
+237,Oct,Oaxaca,24.6
+238,Nov,Oaxaca,23.2
+239,Dic,Oaxaca,21.3
+240,Ene,Puebla,13.1
+241,Feb,Puebla,17.0
+242,Mar,Puebla,19.1
+243,Abr,Puebla,19.3
+244,May,Puebla,20.1
+245,Jun,Puebla,20.4
+246,Jul,Puebla,19.5
+247,Ago,Puebla,19.0
+248,Sep,Puebla,19.6
+249,Oct,Puebla,18.7
+250,Nov,Puebla,16.8
+251,Dic,Puebla,15.3
+252,Ene,Querétaro,13.5
+253,Feb,Querétaro,18.5
+254,Mar,Querétaro,21.0
+255,Abr,Querétaro,22.3
+256,May,Querétaro,23.7
+257,Jun,Querétaro,22.0
+258,Jul,Querétaro,22.0
+259,Ago,Querétaro,22.0
+260,Sep,Querétaro,21.6
+261,Oct,Querétaro,20.3
+262,Nov,Querétaro,17.6
+263,Dic,Querétaro,15.7
+264,Ene,Quintana Roo,23.1
+265,Feb,Quintana Roo,26.4
+266,Mar,Quintana Roo,26.7
+267,Abr,Quintana Roo,28.0
+268,May,Quintana Roo,28.5
+269,Jun,Quintana Roo,29.2
+270,Jul,Quintana Roo,29.9
+271,Ago,Quintana Roo,29.6
+272,Sep,Quintana Roo,29.0
+273,Oct,Quintana Roo,28.2
+274,Nov,Quintana Roo,26.9
+275,Dic,Quintana Roo,25.0
+276,Ene,San Luis Potosí,15.5
+277,Feb,San Luis Potosí,21.9
+278,Mar,San Luis Potosí,23.7
+279,Abr,San Luis Potosí,24.1
+280,May,San Luis Potosí,26.8
+281,Jun,San Luis Potosí,27.4
+282,Jul,San Luis Potosí,27.4
+283,Ago,San Luis Potosí,27.0
+284,Sep,San Luis Potosí,26.5
+285,Oct,San Luis Potosí,23.9
+286,Nov,San Luis Potosí,19.9
+287,Dic,San Luis Potosí,18.1
+288,Ene,Sinaloa,20.9
+289,Feb,Sinaloa,22.4
+290,Mar,Sinaloa,23.0
+291,Abr,Sinaloa,25.1
+292,May,Sinaloa,28.2
+293,Jun,Sinaloa,30.4
+294,Jul,Sinaloa,30.9
+295,Ago,Sinaloa,29.7
+296,Sep,Sinaloa,29.0
+297,Oct,Sinaloa,27.8
+298,Nov,Sinaloa,23.6
+299,Dic,Sinaloa,20.4
+300,Ene,Sonora,16.7
+301,Feb,Sonora,16.4
+302,Mar,Sonora,19.2
+303,Abr,Sonora,22.7
+304,May,Sonora,25.4
+305,Jun,Sonora,30.0
+306,Jul,Sonora,30.8
+307,Ago,Sonora,29.4
+308,Sep,Sonora,29.0
+309,Oct,Sonora,23.3
+310,Nov,Sonora,17.8
+311,Dic,Sonora,14.6
+312,Ene,Tabasco,22.1
+313,Feb,Tabasco,25.8
+314,Mar,Tabasco,27.5
+315,Abr,Tabasco,28.3
+316,May,Tabasco,29.3
+317,Jun,Tabasco,29.0
+318,Jul,Tabasco,29.4
+319,Ago,Tabasco,28.5
+320,Sep,Tabasco,28.6
+321,Oct,Tabasco,27.9
+322,Nov,Tabasco,26.2
+323,Dic,Tabasco,24.3
+324,Ene,Tamaulipas,15.1
+325,Feb,Tamaulipas,22.0
+326,Mar,Tamaulipas,23.9
+327,Abr,Tamaulipas,24.5
+328,May,Tamaulipas,28.0
+329,Jun,Tamaulipas,29.3
+330,Jul,Tamaulipas,30.0
+331,Ago,Tamaulipas,30.1
+332,Sep,Tamaulipas,28.6
+333,Oct,Tamaulipas,24.9
+334,Nov,Tamaulipas,19.4
+335,Dic,Tamaulipas,17.9
+336,Ene,Tlaxcala,11.1
+337,Feb,Tlaxcala,14.4
+338,Mar,Tlaxcala,16.4
+339,Abr,Tlaxcala,16.4
+340,May,Tlaxcala,17.6
+341,Jun,Tlaxcala,17.0
+342,Jul,Tlaxcala,16.6
+343,Ago,Tlaxcala,16.6
+344,Sep,Tlaxcala,17.1
+345,Oct,Tlaxcala,16.5
+346,Nov,Tlaxcala,14.4
+347,Dic,Tlaxcala,12.7
+348,Ene,Veracruz,16.9
+349,Feb,Veracruz,21.3
+350,Mar,Veracruz,22.8
+351,Abr,Veracruz,23.0
+352,May,Veracruz,25.1
+353,Jun,Veracruz,25.7
+354,Jul,Veracruz,25.3
+355,Ago,Veracruz,24.5
+356,Sep,Veracruz,25.0
+357,Oct,Veracruz,23.4
+358,Nov,Veracruz,21.1
+359,Dic,Veracruz,19.3
+360,Ene,Yucatán,21.7
+361,Feb,Yucatán,25.5
+362,Mar,Yucatán,26.3
+363,Abr,Yucatán,27.7
+364,May,Yucatán,28.1
+365,Jun,Yucatán,28.2
+366,Jul,Yucatán,28.8
+367,Ago,Yucatán,28.3
+368,Sep,Yucatán,28.2
+369,Oct,Yucatán,27.3
+370,Nov,Yucatán,25.4
+371,Dic,Yucatán,23.7
+372,Ene,Zacatecas,12.5
+373,Feb,Zacatecas,15.8
+374,Mar,Zacatecas,18.1
+375,Abr,Zacatecas,19.3
+376,May,Zacatecas,21.9
+377,Jun,Zacatecas,21.0
+378,Jul,Zacatecas,20.5
+379,Ago,Zacatecas,19.9
+380,Sep,Zacatecas,19.3
+381,Oct,Zacatecas,17.8
+382,Nov,Zacatecas,14.3
+383,Dic,Zacatecas,12.0
